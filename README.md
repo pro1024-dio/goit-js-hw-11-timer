@@ -8,7 +8,7 @@ JavaScript Home work #11 - timer
 інтернет-магазинах та на сторінках реєстрації подій, під час технічного
 обслуговування і т. д.
 
-![preview](preview.gif)
+![preview](https://github.com/goitacademy/javascript-homework/blob/main/homework-11/timer/preview.gif)
 
 Плагін очікує наступну HTML-розмітку і показує чотири цифри: дні, години,
 хвилини і секунди в форматі `XX:XX:XX:XX`. Кількість днів може складатися з
