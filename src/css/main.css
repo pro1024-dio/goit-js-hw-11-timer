@@ -21,6 +21,12 @@ body {
   
 }
 
+.title {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+
 .field {
   display: flex;
   flex: auto;
